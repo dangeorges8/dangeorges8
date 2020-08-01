@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Daniel Georges from Brazil. I'm currently learning mobile and web development using Javascript, ReactJs, React Native, NodeJs, HTML5 and CSS3. 
+My name is Daniel Georges from Brazil. I'm currently studying Computer Engineer 💻 and learning mobile and web development using Javascript, ReactJs, React Native, NodeJs, HTML5 and CSS3. 
 
 My goal is to deliver solutions and make people's life better through technology.
 
